@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me
 Hi, I'm **Resky Adhyaksa** — a Full Stack Developer based in Indonesia.<br><br>I build applications across both frontend and backend, turning ideas into functional and scalable systems. When I'm not coding, you'll probably find me gaming all day (yes, literally).<br><br>> Full day gamer. No regrets. 🎮<br><br>Living in Indonesia, working with code, and constantly exploring new technologies.<br><br>---<br><br>**"If not me, then why me?"**
 
 
