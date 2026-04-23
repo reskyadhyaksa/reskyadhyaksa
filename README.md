@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/%20TO%20VISIT-000?style=for-the-badge)](https://portofolio-reskyadhyaksa.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/%20My%20Portfolio-000?style=for-the-badge)](https://portofolio-reskyadhyaksa.vercel.app/)
 ---
-<p>Hi, I'm **Resky Adhyaksa** a Full Stack Developer based in Indonesia. I build applications across both frontend and backend, turning ideas into functional and scalable systems. When I'm not coding, you'll probably find me gaming all day (yes, literally). <br> Living in Indonesia, working with code, and constantly exploring new technologies.
+<p>Hi, I'm Resky Adhyaksa a Full Stack Developer based in Indonesia. I build applications across both frontend and backend, turning ideas into functional and scalable systems. When I'm not coding, you'll probably find me gaming all day (yes, literally). <br> Living in Indonesia, working with code, and constantly exploring new technologies.
 <br>---<br>🎮 Full day gamer. No regrets.
 
 ---
